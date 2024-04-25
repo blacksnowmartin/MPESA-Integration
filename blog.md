@@ -28,5 +28,7 @@ Integrating M-Pesa into Your Website Using PHP: https://burstdigital.co.ke/integ
 MPESA API: How to integrate Mpesa to your Website or Application: https://helloduty.com/integrations
 Remember, integrating financial APIs can be complex. If you're not a developer, consider seeking professional help to ensure a secure and functional integration.
 
+Remember, integration is a process that requires attention to detail and patience. Trust the process, and your integration will be successful. Don't hesitate to reach out to me for guidance and support if you encounter any issues during the integration process.
+
 #By Martin Kitonga
 ##(Blacksnow Martin)
