@@ -7,7 +7,7 @@ Paybill or BuyGoods Number: This unique identifier allows customers to direct pa
 Integration Process:
 
 Safaricom Developer Portal: Sign up for an account on the Safaricom Developer Portal (https://developer.safaricom.co.ke/). This grants access to M-Pesa API credentials and development tools.
-
+z
 API Credentials: Generate API keys (Consumer Key and Consumer Secret) within the developer portal. These are required for authentication when your website interacts with the M-Pesa API.
 
 Choose an Integration Approach: There are two main options:
