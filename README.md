@@ -1,2 +1,4 @@
 # MPESA-Integration
-A clear guide on how to integrate MPESA API in your website.
+A simple guide on how to integrate MPESA API in your website by doing following tasks:-
+1. Sending money
+2. STK Pop
